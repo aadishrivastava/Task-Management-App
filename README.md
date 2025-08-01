@@ -113,5 +113,11 @@ MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_jwt_secret
 
 
+## License
+
+📄 This project is licensed under the [MIT License](LICENSE).
+
+
+
 👨‍💻 Author
 Aadi Shrivastava
